@@ -1,0 +1,18 @@
+body{
+    background-image: url(../pictures/dummy_bloodsoup.jpg);
+}
+
+.screenshots{
+    width: 900px;
+    height: 800px;
+}
+
+#screenshots{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+figure {
+    margin: 0;
+}
