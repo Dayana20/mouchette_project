@@ -1,0 +1,12 @@
+body{
+    background-image: url(../pictures/suicide_background.jpg);
+}
+
+p{
+    font-size: 2em;
+    color:white 
+}
+
+#text{
+    text-align: center;
+}
