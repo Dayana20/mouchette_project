@@ -10,3 +10,7 @@ p{
 #text{
     text-align: center;
 }
+
+.autoplay_audio{
+    display:none;
+}

@@ -16,3 +16,7 @@ body{
 figure {
     margin: 0;
 }
+
+.autoplay_audio{
+    display:none;
+}
