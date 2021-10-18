@@ -1,0 +1,49 @@
+/* About Me css */
+#body_AboutMe{
+    /* background-image: url(../pictures/mouchette_pic.gif); */
+
+    background-color: black;
+
+    width: auto;
+    height: auto;
+    border: solid;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+interativeText{
+
+    color: black;
+    
+}
+
+.interativeText :hover{
+
+    color: white;
+    transition: .5s ease;
+   
+}
+p{
+
+    font-size: 1em;
+
+}
+
+.imgHide{
+
+    display: none;
+
+}
+
+.interactiveImg :hover + .imgHide{
+
+    display: block;
+
+    
+    width: 500px;
+    height: 100px;
+
+
+}
+
